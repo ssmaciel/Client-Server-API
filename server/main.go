@@ -41,4 +41,5 @@ func main() {
 		panic(error)
 	}
 	println(m.UsdBrl)
+	
 }
